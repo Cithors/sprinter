@@ -1,6 +1,6 @@
 # Sprinter : Minimalist Pomodoro For Linux
 
-## What is Sprinter ?
+## What is Sprinter ?
 
 This is a simple, yet efficient, script that help you to use Pomodoro technique directly on your computer. With no more need to use your smartphone, you get a knew way to deep work while avoiding those tempting social medias.
 
