@@ -15,7 +15,7 @@ Developped with minimalism in mind, such is the way to use it :
 If you want to make 3 rushes of 50 minutes of work, 10 minutes break, the command will be :
 
 ```bash
-./splinter.sh 50 10 5
+./splinter.sh 50 10 3
 ```
 
 > By default, it's set to 4 rushes of 20 minutes of work and 5 minutes break.
